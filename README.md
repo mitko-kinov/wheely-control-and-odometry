@@ -1,5 +1,4 @@
 # wheely-control-and-odometry
-Wheely is a 2WD mobile robot platform for exploring how mechanical motion concepts are implemented in software through control and odometry, as a foundation for deeper robotics and Physical AI experimentation.
 
 Wheely is a 2WD mobile robot platform developed as a hands-on engineering environment for understanding how the physical behavior of a robot is represented, controlled, and measured in software.
 
